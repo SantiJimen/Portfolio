@@ -1,0 +1,45 @@
+
+
+body {
+    line-height: 1.4;
+    font-family: "Titillium Web", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    margin-top: 6%;
+    background: #151515;
+    color: white;
+}
+
+.box {
+    margin-right: 50px;
+    width: fit-content;
+    background-color: transparent;
+}
+
+.box h1 {
+    font-size: 300%;
+}
+
+.leftBox {
+    width: 50%;
+    float: left;
+}
+
+.rightBox {
+    width: 50%;
+    float: right;
+    text-align: left;
+}
+
+
+
+
+
+/*=================================================================
+  Navigation section
+==================================================================*/
+
+
+
+/*=================================================================
+  Footer section
+==================================================================*/
