@@ -7,6 +7,8 @@ Aspiring Cybersecurity professional actively looking for a cybersecurity role. I
 
 ## Training and Certifications
 
+· Degree in Software Engineering
+
 · Postgraduate program in Cybersecurity (UPC)
 
 · Google Cybersecurity Certificate
