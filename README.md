@@ -19,4 +19,5 @@ Aspiring Cybersecurity professional actively looking for a cybersecurity role. I
 
 ## Practical Projects
 
-Live SOC Monitoring (LetsDefend) - Monitored real-time security alerts, performed triage and investigated incidents in a simulated SOC enviroment.
+###Live SOC Monitoring (LetsDefend) 
+Monitored real-time security alerts, performed triage and investigated incidents in a simulated SOC enviroment.
