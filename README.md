@@ -8,9 +8,13 @@ Aspiring Cybersecurity professional actively looking for a cybersecurity role. I
 ## Training and Certifications
 
 · Postgraduate program in Cybersecurity (UPC)
+
 · Google Cybersecurity Certificate
+
 · CompTIA Security+ Certificate
+
 · Risk management internship
+
 · Skills include: Cybersecurity Risk Managemnt, Asset Management, Security Education and Awareness, Data Loss Protection.
 
 ## Practical Projects
