@@ -18,3 +18,5 @@ Aspiring Cybersecurity professional actively looking for a cybersecurity role. I
 · Skills include: Cybersecurity Risk Managemnt, Asset Management, Security Education and Awareness, Data Loss Protection.
 
 ## Practical Projects
+
+Live SOC Monitoring (LetsDefend) - Monitored real-time security alerts, performed triage and investigated incidents in a simulated SOC enviroment.
